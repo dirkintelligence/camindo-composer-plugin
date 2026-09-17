@@ -17,5 +17,5 @@ Every component package declares its directory name (StudlyCase) in its `compose
 ```
 
 The `camindo/cms` skeleton requires this plugin and allows it in `config.allow-plugins`;
-nothing else has to be configured. See `docs/developers/14-installation-und-update.md`,
+nothing else has to be configured. See `https://github.com/dirkintelligence/camindo-c9-docs/developers/14-installation-und-update.md`,
 section 1.2, in the core repository.
