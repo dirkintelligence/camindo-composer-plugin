@@ -3,9 +3,9 @@
  * camindo/composer-plugin - registriert den Installer für die camindo-Pakettypen.
  *
  * Composer lädt Plugins vor allen anderen Paketen; deshalb liegt dieser Code in
- * einem eigenen Paket und nicht im Core. Das Skelett camindo/cms verlangt ihn
+ * einem eigenen Paket und nicht im Core. Das Skelett camindo/project verlangt ihn
  * (require + config.allow-plugins), Zusatzkomponenten nicht - sie werden von ihm
- * installiert. Siehe docs/developers/14-installation-und-update.md, 1.2, im Core.
+ * installiert. Siehe Entwicklerdoku, Kapitel 09 (Installation und Update).
  */
 namespace Camindo\Composer;
 
